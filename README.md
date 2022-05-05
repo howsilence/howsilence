@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://www.twitch.tv/howsilence">
-    <img src="https://img.shields.io/badge/Twitch-blue?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch Badge"/>
+    <img src="https://img.shields.io/badge/Twitch-purple?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch Badge"/>
   </a>
 </div>
 <!--
