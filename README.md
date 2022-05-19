@@ -74,7 +74,7 @@ RESTful APIs, Agile Development, Debugging, Bug Tracking, Deployment via Heroku
 
 ### :fire: My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=howsilence&theme=cobalt&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=howsilence&show_icons=true&theme=cobalt&hide_border=true)](https://github.com/howsilence/github-readme-stats)
+
 
 ---
 [![forthebadge](https://forthebadge.com/images/badges/compatibility-pc-load-letter.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/does-not-contain-treenuts.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
