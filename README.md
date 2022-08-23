@@ -4,14 +4,13 @@
   Hey there, I'm Steve!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-  <h3 align="center">I'm a Software Engineer Currently Looking For Employment Opportunities</h3>
+  
   </div>
   <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/steve-tatton-aa0937233/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://medium.com/@statton0104">
-      <img src="https://img.shields.io/badge/Medium-green?logo=medium&logoColor=white&style=for-the-badge" alt="@statton0104"/>
+    
   </a>
 <!--   <a href="https://www.youtube.com/channel/UCRb-nzyJXAZxMiY2ytkZBGQ/featured">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
@@ -30,7 +29,7 @@
 ### :man_technologist: About Me:
  :telescope: I’m a Software Engineering graduate of Flatiron School, a lover of dogs, an amateur chef with a voracious appetite for knowledge. 
 
-- :seedling: Currently learning: **Graphql, Redux and Apollo client** for my next project
+- :seedling: Recently joined Recurly as a Solutions Engineer
 
 - :zap: In my free time, I tinker with new techniques, languages, read tech articles and occasionally game.
 
@@ -71,14 +70,15 @@ RESTful APIs, Agile Development, Debugging, Bug Tracking, Deployment via Heroku
  -->
  
 ---
-
+<!--
 ### :fire: My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=howsilence&theme=cobalt&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 ---
+
 [![forthebadge](https://forthebadge.com/images/badges/compatibility-pc-load-letter.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/does-not-contain-treenuts.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
-<!--
+
 **howsilence/howsilence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
